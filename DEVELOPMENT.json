@@ -1,0 +1,6 @@
+{
+    "ssh_secret": {
+        "desktop": "sshpass -p 123123 ssh -tt -p 8000 localhost -o StrictHostKeyChecking=no"
+    },
+    "email_for_report": ["test@example.com"]
+}
